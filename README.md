@@ -1,7 +1,7 @@
 # Neetcode 150 Problems
 
 ## What is Neetcode 150?  
-[Neetcode 150](https://neetcode.io/) is a carefully curated list of 150 essential coding problems designed to help software engineers master data structures, algorithms, and problem-solving skills. The problems are categorized by topic and difficulty, making it an excellent resource for coding interviews and improving your technical skills.
+[Neetcode 150](https://neetcode.io/practice?tab=neetcode150) is a carefully curated list of 150 essential coding problems designed to help software engineers master data structures, algorithms, and problem-solving skills. The problems are categorized by topic and difficulty, making it an excellent resource for coding interviews and improving your technical skills.
 
 ---
 
