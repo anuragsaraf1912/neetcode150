@@ -39,3 +39,7 @@ The problems are categorized into the following topics:
 1. Clone the repository to your local machine:  
    ```bash
    git clone https://github.com/anuragsaraf1912/neetcode-150.git
+2. Navigate to the topic notebook to find:
+- Link to the problem (whenever possible) 
+- My solutions to the NeetCode 150 problems
+- The approach explanantion and complexity analysis 
