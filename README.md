@@ -41,5 +41,5 @@ The problems are categorized into the following topics:
    git clone https://github.com/anuragsaraf1912/neetcode150.git
 2. Navigate to the topic notebook and explore solutions:
 - Link to the problem  
-- My solutions to the NeetCode 150 problems in Python 
+- My solutions to the problems in Python 
 - The approach explanantion and complexity analysis 
