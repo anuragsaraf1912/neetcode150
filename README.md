@@ -33,7 +33,7 @@ The problems are categorized into the following topics:
 14. **Dynamic Programming - 2**
 15. **Greedy Algorithms**  
 16. **Intervals**
-17. **Math & Gemometry**
+17. **Math & Geometry**
 18. **Bit Manipulation**  
 
 ---
