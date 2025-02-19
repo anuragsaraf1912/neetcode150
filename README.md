@@ -23,15 +23,18 @@ The problems are categorized into the following topics:
 4. **Stack**  
 5. **Binary Search**  
 6. **Linked List**  
-7. **Trees**  
-8. **Tries**  
-9. **Heap / Priority Queue**  
-10. **Backtracking**  
-11. **Graphs**  
-12. **Dynamic Programming**  
-13. **Greedy Algorithms**  
-14. **Intervals**  
-15. **Bit Manipulation**  
+7. **Trees**    
+8. **Heap / Priority Queue**  
+9. **Backtracking**
+10. **Tries**
+11. **Graphs**
+12. **Advanced Graphs**
+13. **Dynamic Programming - 1**
+14. **Dynamic Programming - 2**
+15. **Greedy Algorithms**  
+16. **Intervals**
+17. **Math & Gemometry**
+18. **Bit Manipulation**  
 
 ---
 
