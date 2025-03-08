@@ -1,7 +1,7 @@
 # Neetcode 150 Problems
 
 ## What is Neetcode 150?  
-[Neetcode 150](https://neetcode.io/practice?tab=neetcode150) is a list of 150 essential coding problems designed to help software engineers master data structures, algorithms, and problem-solving skills. The problems are categorized by topic and difficulty, making it an excellent resource for coding interviews and improving technical skills.
+[Neetcode 150](https://neetcode.io/practice?tab=neetcode150) is a list of 150 coding problems designed to help software engineers understand data structures and algorithms, and improve their problem-solving skills. The problems are categorized by topic and difficulty, making it an excellent resource for coding interviews and improving technical skills.
 
 ---
 
@@ -10,7 +10,7 @@ This repository was created to:
 1. Track my progress while solving the **Neetcode 150** problems.  
 2. Build a deeper understanding of **Data Structures** and **Algorithms** through practice.  
 3. Prepare effectively for technical interviews.  
-4. Share my solutions and approaches with the developer community for collaboration and learning.
+4. Share my solutions and approaches with everyone for collaboration and learning.
 
 ---
 
