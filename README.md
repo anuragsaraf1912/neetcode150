@@ -24,7 +24,7 @@ The problems are categorized into the following topics:
 5. [**Binary Search**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Binary_Search.ipynb)  
 6. [**Linked List**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Linked_List.ipynb)  
 7. [**Trees**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Trees.ipynb)    
-8. **Heap / Priority Queue**  
+8. [**Heap / Priority Queue**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Heaps.ipynb)  
 9. **Backtracking**
 10. **Tries**
 11. **Graphs**
