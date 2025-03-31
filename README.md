@@ -17,7 +17,7 @@ This repository was created to:
 ## Topics Covered  
 The problems are categorized into the following topics:  
 
-1. **Arrays & Hashing**  
+1. [**Arrays & Hashing**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Array_and_Hashing.ipynb)  
 2. **Two Pointers**  
 3. **Sliding Window**  
 4. **Stack**  
