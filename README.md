@@ -20,7 +20,7 @@ The problems are categorized into the following topics:
 1. [**Arrays & Hashing**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Array_and_Hashing.ipynb)  
 2. [**Two Pointers**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Two_Pointers.ipynb)  
 3. [**Sliding Window**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Sliding_Window.ipynb)  
-4. **Stack**  
+4. [**Stack**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Stack.ipynb)  
 5. **Binary Search**  
 6. **Linked List**  
 7. **Trees**    
