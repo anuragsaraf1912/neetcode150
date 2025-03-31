@@ -18,7 +18,7 @@ This repository was created to:
 The problems are categorized into the following topics:  
 
 1. [**Arrays & Hashing**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Array_and_Hashing.ipynb)  
-2. **Two Pointers**  
+2. [**Two Pointers**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Two_Pointers.ipynb)  
 3. **Sliding Window**  
 4. **Stack**  
 5. **Binary Search**  
