@@ -27,7 +27,7 @@ The problems are categorized into the following topics:
 8. [**Heap / Priority Queue**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Heaps.ipynb)  
 9. [**Backtracking**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Backtracking.ipynb)
 10. [**Tries**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Trie.ipynb)
-11. **Graphs**
+11. [**Graphs**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Graphs.ipynb)
 12. **Advanced Graphs**
 13. **Dynamic Programming - 1**
 14. **Dynamic Programming - 2**
