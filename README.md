@@ -32,7 +32,7 @@ The problems are categorized into the following topics:
 13. **Dynamic Programming - 1**
 14. **Dynamic Programming - 2**
 15. **Greedy Algorithms**  
-16. **Intervals**
+16. [**Intervals**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Intervals.ipynb)
 17. **Math & Geometry**
 18. **Bit Manipulation**  
 
