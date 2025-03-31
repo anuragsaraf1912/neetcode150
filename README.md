@@ -21,7 +21,7 @@ The problems are categorized into the following topics:
 2. [**Two Pointers**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Two_Pointers.ipynb)  
 3. [**Sliding Window**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Sliding_Window.ipynb)  
 4. [**Stack**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Stack.ipynb)  
-5. **Binary Search**  
+5. [**Binary Search**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Binary_Search.ipynb)  
 6. **Linked List**  
 7. **Trees**    
 8. **Heap / Priority Queue**  
