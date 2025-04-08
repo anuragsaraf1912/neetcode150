@@ -17,12 +17,12 @@ This repository was created to:
 ## Topics Covered  
 The problems are categorized into the following topics:  
 
-1. [**Arrays & Hashing**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Array_and_Hashing.ipynb) ✅
-2. [**Two Pointers**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Two_Pointers.ipynb) ✅
-3. [**Sliding Window**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Sliding_Window.ipynb) ✅ 
-4. [**Stack**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Stack.ipynb) ✅
-5. [**Binary Search**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Binary_Search.ipynb) ✅ 
-6. [**Linked List**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Linked_List.ipynb) ✅
+1. ✅[**Arrays & Hashing**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Array_and_Hashing.ipynb) 
+2. ✅[**Two Pointers**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Two_Pointers.ipynb) 
+3. ✅[**Sliding Window**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Sliding_Window.ipynb) 
+4. ✅[**Stack**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Stack.ipynb) 
+5. ✅[**Binary Search**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Binary_Search.ipynb)  
+6. ✅[**Linked List**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Linked_List.ipynb) 
 7. [**Trees**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Trees.ipynb) 
 8. [**Heap / Priority Queue**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Heaps.ipynb)   
 9. [**Backtracking**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Backtracking.ipynb)
