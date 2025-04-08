@@ -17,14 +17,14 @@ This repository was created to:
 ## Topics Covered  
 The problems are categorized into the following topics:  
 
-1. [**Arrays & Hashing**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Array_and_Hashing.ipynb)  
-2. [**Two Pointers**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Two_Pointers.ipynb)  
-3. [**Sliding Window**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Sliding_Window.ipynb)  
-4. [**Stack**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Stack.ipynb)  
-5. [**Binary Search**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Binary_Search.ipynb)  
-6. [**Linked List**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Linked_List.ipynb)  
-7. [**Trees**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Trees.ipynb)    
-8. [**Heap / Priority Queue**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Heaps.ipynb)  
+1. [**Arrays & Hashing**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Array_and_Hashing.ipynb) ✅
+2. [**Two Pointers**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Two_Pointers.ipynb) ✅
+3. [**Sliding Window**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Sliding_Window.ipynb) ✅ 
+4. [**Stack**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Stack.ipynb) 
+5. [**Binary Search**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Binary_Search.ipynb) 
+6. [**Linked List**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Linked_List.ipynb) 
+7. [**Trees**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Trees.ipynb) 
+8. [**Heap / Priority Queue**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Heaps.ipynb)   
 9. [**Backtracking**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Backtracking.ipynb)
 10. [**Tries**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Trie.ipynb)
 11. [**Graphs**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Graphs.ipynb)
@@ -32,7 +32,7 @@ The problems are categorized into the following topics:
 13. [**Dynamic Programming - 1**](https://github.com/anuragsaraf1912/neetcode150/blob/main/1D_Dynamic_Programming.ipynb)
 14. [**Dynamic Programming - 2**](https://github.com/anuragsaraf1912/neetcode150/blob/main/2D_Dynamic_Programming.ipynb)
 15. [**Greedy Algorithms**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Greedy.ipynb)  
-16. [**Intervals**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Intervals.ipynb)
+16. [**Intervals**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Intervals.ipynb) ✅
 17. [**Math & Geometry**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Math_and_Geometry.ipynb)
 18. [**Bit Manipulation**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Bit_Manipulation.ipynb)  
 
