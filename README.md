@@ -32,8 +32,8 @@ The problems are categorized into the following topics:
 13. [**Dynamic Programming - 1**](https://github.com/anuragsaraf1912/neetcode150/blob/main/1D_Dynamic_Programming.ipynb)
 14. [**Dynamic Programming - 2**](https://github.com/anuragsaraf1912/neetcode150/blob/main/2D_Dynamic_Programming.ipynb)
 15. [**Greedy Algorithms**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Greedy.ipynb)  
-16. [**Intervals**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Intervals.ipynb) ✅
-17. [**Math & Geometry**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Math_and_Geometry.ipynb)
+16. ✅[**Intervals**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Intervals.ipynb) 
+17. ✅[**Math & Geometry**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Math_and_Geometry.ipynb)
 18. [**Bit Manipulation**](https://github.com/anuragsaraf1912/neetcode150/blob/main/Bit_Manipulation.ipynb)  
 
 ---
